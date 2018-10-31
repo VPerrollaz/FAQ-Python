@@ -36,3 +36,7 @@
 - [Double Pendule](./Modelisation/Double_pendules.ipynb)
 - [Pendule 3D](./Modelisation/Pendul3d.ipynb)
 - [Pendule 3D à ressort](./Modelisation/PenduleRessort3d.ipynb)
+
+## Systèmes dynamiques
+- [Comparaison de schémas numérique sur Lotka-Volterra](./Modelisation/Dynamique/Comparaison-LotkaVolterra.ipynb)
+
