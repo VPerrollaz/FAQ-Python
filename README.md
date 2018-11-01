@@ -39,4 +39,5 @@
 
 ## Systèmes dynamiques
 - [Comparaison de schémas numérique sur Lotka-Volterra](./Modelisation/Dynamique/Comparaison-LotkaVolterra.ipynb)
+- [Conjecture de Syracuse](./Modelisation/Dynamique/3X+1.ipynb)
 
