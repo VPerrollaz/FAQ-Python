@@ -37,7 +37,9 @@
 - [Pendule 3D](./Modelisation/Pendul3d.ipynb)
 - [Pendule 3D à ressort](./Modelisation/PenduleRessort3d.ipynb)
 
-## Systèmes dynamiques
+### Systèmes dynamiques
 - [Comparaison de schémas numérique sur Lotka-Volterra](./Modelisation/Dynamique/Comparaison-LotkaVolterra.ipynb)
 - [Conjecture de Syracuse](./Modelisation/Dynamique/3X+1.ipynb)
 
+### Mathématiques
+- [Ensembles de Cantor](./Modelisation/Analyse/cantor.ipynb)
