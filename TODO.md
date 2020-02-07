@@ -1,11 +1,7 @@
 # A FAIRE
 
-- Mettre à jour le notebook d'animation
-- Découper le notebook de Calcul Symbolique
-    - Généralités session, import etc...
-    - Manipulation de nombres et d'expression symbolique
-    - Analyse : dérivation, intégration, edo, dse
-    - Algèbre linéaire
+- Mettre à jour les notebooks de tâches courantes.
+- Ajouter un notebook d'affichage en calcul symbolique.
 - Ajouter notebooks de statistique descriptive (pandas, seaborn, holoviews, bqplot )
 - Ajouter notebook de statistique inférentielle (scikit-learn)
 - Ajouter notebook Widgets
