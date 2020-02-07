@@ -26,8 +26,8 @@
 - [Chaine de Markov via cython](./Calcul-Scientifique/Probas-Stat/markov_cython.ipynb)
 
 ### Symbolique
-- [Fondamentaux communs à toutes sessions symboliques](./Calcul-Scientifique/Symbolique/Fondamentaux.ipynb)
-- [Manipulations algébriques](./Calcul-Scientifique/Symbolique/manipulations_arithmetiques.ipynb)
+- [Fondamentaux communs à toutes sessions symboliques](./Calcul-Scientifique/Symbolique/fondamentaux.ipynb)
+- [Manipulations algébriques](./Calcul-Scientifique/Symbolique/manipulations_algebriques.ipynb)
 - [Calculus](./Calcul-Scientifique/Symbolique/calculus.ipynb)
 - [Algèbre Linéaire](./Calcul-Scientifique/Symbolique/algebre_lineaire.ipynb)
 
