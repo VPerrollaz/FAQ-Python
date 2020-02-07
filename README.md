@@ -26,7 +26,10 @@
 - [Chaine de Markov via cython](./Calcul-Scientifique/Probas-Stat/markov_cython.ipynb)
 
 ### Symbolique
-- [Introduction à Sympy](./Calcul-Scientifique/Symbolique/introduction_sympy.ipynb)
+- [Fondamentaux communs à toutes sessions symboliques](./Calcul-Scientifique/Symbolique/Fondamentaux.ipynb)
+- [Manipulations algébriques](./Calcul-Scientifique/Symbolique/manipulations_arithmetiques.ipynb)
+- [Calculus](./Calcul-Scientifique/Symbolique/calculus.ipynb)
+- [Algèbre Linéaire](./Calcul-Scientifique/Symbolique/algebre_lineaire.ipynb)
 
 ## Divers Notebooks de modélisation/calcul/visualisation
 
