@@ -30,6 +30,7 @@
 - [Manipulations algébriques](./Calcul-Scientifique/Symbolique/manipulations_algebriques.ipynb)
 - [Calculus](./Calcul-Scientifique/Symbolique/calculus.ipynb)
 - [Algèbre Linéaire](./Calcul-Scientifique/Symbolique/algebre_lineaire.ipynb)
+- [Affichage](./Calcul-Scientifique/Symbolique/affichage_sympy.ipynb)
 
 ## Divers Notebooks de modélisation/calcul/visualisation
 
