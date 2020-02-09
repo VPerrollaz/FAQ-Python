@@ -13,7 +13,7 @@
 ### Analyse
 - [Tableaux numpy](./Calcul-Scientifique/Analyse/tableaux.ipynb)
 - [Généralités affichage](./Calcul-Scientifique/Analyse/affichage.ipynb)
-- [Affichage en 3d](./Calcul-Scientifique/Analyse/Affichage3d.ipynb)
+- [Affichage en 3d](./Calcul-Scientifique/Analyse/Affichage_3d.ipynb)
 - [Animation](./Calcul-Scientifique/Analyse/Animation.ipynb)
 - [Visualisation champs de vecteurs](./Calcul-Scientifique/Analyse/Champs_de_vecteurs.ipynb)
 - [Equations différentielles](./Calcul-Scientifique/Analyse/edo.ipynb)
