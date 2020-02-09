@@ -19,6 +19,7 @@
 - [Equations différentielles](./Calcul-Scientifique/Analyse/edo.ipynb)
 - [EDO nouveaux solvers](./Calcul-Scientifique/Analyse/edo2.ipynb)
 - [Optimisation](./Calcul-Scientifique/Analyse/opti.ipynb)
+- Introduction à [ipyvolume](./Calcul-Scientifique/Analyse/demo_ipyvolume.ipynb)
 
 ### Probabilités
 - [Génération de lois classiques](./Calcul-Scientifique/Probas-Stat/Generation_lois_classiques.ipynb)
