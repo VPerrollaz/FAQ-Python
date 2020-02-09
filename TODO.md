@@ -1,7 +1,6 @@
 # A FAIRE
 
 - Mettre à jour les notebooks de tâches courantes.
-- Ajouter un notebook d'affichage en calcul symbolique.
 - Ajouter un notebook de résolution de tout type d'équations (algébrique, transcendante, différentielles, arithmétiques)
 - Ajouter notebooks de statistique descriptive (pandas, seaborn, holoviews, bqplot )
 - Ajouter notebook de statistique inférentielle (scikit-learn)
