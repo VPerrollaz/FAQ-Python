@@ -1,13 +1,5 @@
 # FAQ-Python
 
-## Introduction générale à python
-- [Prise en main de Python](./General/Prise_en_main_de_Python.ipynb)  
-- [Introduction au notebook](./General/Introduction_au_notebook.ipynb)
-
-## Préparation à l'agrégation interne
-- [Introduction à Python](./Agregation/Introduction_a_Python.ipynb)
-- [Algebre linéaire](./Agregation/Algebre_Lineaire.ipynb)
-
 ## Tâches courantes en calcul scientifique
 
 ### Analyse
@@ -33,6 +25,14 @@
 - [Algèbre Linéaire](./Calcul-Scientifique/Symbolique/algebre_lineaire.ipynb)
 - [Affichage](./Calcul-Scientifique/Symbolique/affichage_sympy.ipynb)
 - [Graphes](./Calcul-Scientifique/Symbolique/graphes.ipynb)
+
+## Introduction générale à python
+- [Prise en main de Python](./General/Prise_en_main_de_Python.ipynb)  
+- [Introduction au notebook](./General/Introduction_au_notebook.ipynb)
+
+## Préparation à l'agrégation interne
+- [Introduction à Python](./Agregation/Introduction_a_Python.ipynb)
+- [Algebre linéaire](./Agregation/Algebre_Lineaire.ipynb)
 
 ## Divers Notebooks de modélisation/calcul/visualisation
 
