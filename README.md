@@ -32,6 +32,7 @@
 - [Calculus](./Calcul-Scientifique/Symbolique/calculus.ipynb)
 - [Algèbre Linéaire](./Calcul-Scientifique/Symbolique/algebre_lineaire.ipynb)
 - [Affichage](./Calcul-Scientifique/Symbolique/affichage_sympy.ipynb)
+- [Graphes](./Calcul-Scientifique/Symbolique/graphes.ipynb)
 
 ## Divers Notebooks de modélisation/calcul/visualisation
 
