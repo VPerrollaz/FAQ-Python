@@ -3,28 +3,28 @@
 ## Tâches courantes en calcul scientifique
 
 ### Analyse
-- [Tableaux numpy](./Calcul-Scientifique/Analyse/tableaux.ipynb)
-- [Généralités affichage](./Calcul-Scientifique/Analyse/affichage.ipynb)
-- [Affichage en 3d](./Calcul-Scientifique/Analyse/Affichage_3d.ipynb)
-- [Animation](./Calcul-Scientifique/Analyse/Animation.ipynb)
-- [Visualisation champs de vecteurs](./Calcul-Scientifique/Analyse/Champs_de_vecteurs.ipynb)
-- [Equations différentielles](./Calcul-Scientifique/Analyse/edo.ipynb)
-- [EDO nouveaux solvers](./Calcul-Scientifique/Analyse/edo2.ipynb)
-- [Optimisation](./Calcul-Scientifique/Analyse/opti.ipynb)
-- Introduction à [ipyvolume](./Calcul-Scientifique/Analyse/demo_ipyvolume.ipynb)
+- [Tableaux numpy](./FAQ/Analyse/tableaux.ipynb)
+- [Généralités affichage](./FAQ/Analyse/affichage.ipynb)
+- [Affichage en 3d](./FAQ/Analyse/Affichage_3d.ipynb)
+- [Animation](./FAQ/Analyse/Animation.ipynb)
+- [Visualisation champs de vecteurs](./FAQ/Analyse/Champs_de_vecteurs.ipynb)
+- [Equations différentielles](./FAQ/Analyse/edo.ipynb)
+- [EDO nouveaux solvers](./FAQ/Analyse/edo2.ipynb)
+- [Optimisation](./FAQ/Analyse/opti.ipynb)
+- Introduction à [ipyvolume](./FAQ/Analyse/demo_ipyvolume.ipynb)
 
 ### Probabilités
-- [Génération de lois classiques](./Calcul-Scientifique/Probas-Stat/Generation_lois_classiques.ipynb)
-- [Génération de lois sur mesure](./Calcul-Scientifique/Probas-Stat/Generation_lois_partiulieres.ipynb)
-- [Chaine de Markov via cython](./Calcul-Scientifique/Probas-Stat/markov_cython.ipynb)
+- [Génération de lois classiques](./FAQ/Probas-Stat/Generation_lois_classiques.ipynb)
+- [Génération de lois sur mesure](./FAQ/Probas-Stat/Generation_lois_partiulieres.ipynb)
+- [Chaine de Markov via cython](./FAQ/Probas-Stat/markov_cython.ipynb)
 
 ### Symbolique
-- [Fondamentaux communs à toutes sessions symboliques](./Calcul-Scientifique/Symbolique/fondamentaux.ipynb)
-- [Manipulations algébriques](./Calcul-Scientifique/Symbolique/manipulations_algebriques.ipynb)
-- [Calculus](./Calcul-Scientifique/Symbolique/calculus.ipynb)
-- [Algèbre Linéaire](./Calcul-Scientifique/Symbolique/algebre_lineaire.ipynb)
-- [Affichage](./Calcul-Scientifique/Symbolique/affichage_sympy.ipynb)
-- [Graphes](./Calcul-Scientifique/Symbolique/graphes.ipynb)
+- [Fondamentaux communs à toutes sessions symboliques](./FAQ/Symbolique/fondamentaux.ipynb)
+- [Manipulations algébriques](./FAQ/Symbolique/manipulations_algebriques.ipynb)
+- [Calculus](./FAQ/Symbolique/calculus.ipynb)
+- [Algèbre Linéaire](./FAQ/Symbolique/algebre_lineaire.ipynb)
+- [Affichage](./FAQ/Symbolique/affichage_sympy.ipynb)
+- [Graphes](./FAQ/Symbolique/graphes.ipynb)
 
 ## Introduction générale à python
 - [Prise en main de Python](./General/Prise_en_main_de_Python.ipynb)  
